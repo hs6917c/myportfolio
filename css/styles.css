@@ -4,12 +4,6 @@
 * Copyright 2013-2021 Start Bootstrap
 * Licensed under MIT (https://github.com/StartBootstrap/startbootstrap-stylish-portfolio/blob/master/LICENSE)
 */
-/*!
- * Bootstrap v5.0.2 (https://getbootstrap.com/)
- * Copyright 2011-2021 The Bootstrap Authors
- * Copyright 2011-2021 Twitter, Inc.
- * Licensed under MIT (https://github.com/twbs/bootstrap/blob/main/LICENSE)
- */
 :root {
   --bs-blue: #1D809F;
   --bs-indigo: #6610f2;
@@ -576,7 +570,7 @@ progress {
   padding: 0.25rem;
   background-color: #fff;
   border: 1px solid #dee2e6;
-  border-radius: 0.25rem;
+  border-radius: 5rem;
   max-width: 100%;
   height: auto;
 }
@@ -10858,7 +10852,7 @@ html {
 }
 
 .content-section {
-  padding-top: 10rem;
+  padding-top: 7.5rem;
   padding-bottom: 7.5rem;
 }
 
@@ -10969,7 +10963,7 @@ html {
   height: 50px;
   text-align: center;
   color: #fff;
-  background: rgba(52, 58, 64, 0.5);
+  background: rgba(0, 0, 0, 0.5);
   line-height: 50px;
   z-index: 999;
 }
